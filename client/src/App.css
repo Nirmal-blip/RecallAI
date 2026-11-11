@@ -1,0 +1,7 @@
+/* Global App Utility Styles */
+.app-container {
+  height: 100dvh;
+  width: 100vw;
+  overflow: hidden;
+  display: flex;
+}
